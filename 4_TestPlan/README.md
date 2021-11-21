@@ -6,6 +6,7 @@
 |01     | Ammount calculation         |ammount        |balance        | balance                  |Requirement based|
 |02     | System execution            |integers       |executions     | executions               |Senario based    |
 |03     | security                    |password       | 0             | 0                        |Boundry based    |
+
 # Table no: Low level test plan
 
 |Test ID|Description	              |Exp I/P	      |Exp O/P	      |Actual Out	             |Type Of Test     |
