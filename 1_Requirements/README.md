@@ -37,18 +37,16 @@ If the correct password of user is known then he/she can able to calculate the e
 
 # Detail requirements
 
-
 # High Level Requirements:
-
-|ID      | Description       | Status|
-|------- |-------------------|----------------------------------------------------|
-|01      | Security          |Only the person who knows the account password can able to access any process.|
-|02      | Accuracy           |A person can able to subract or add any type of ammount with accuract. |
+| ID            | Description      | Status                                                                                         |  
+| ------------- | ---------------- |------------------------------------------------------------------------------------------------|
+|01             | Security         |Only the person who knows the account password can able to access any process.                  |
+|02             | Accuracy         |A person can able to subract or add any type of ammount with accuract.                          |
 
 # Low level Requirements:
 
-|ID      | Description        | Status |
-|--------|--------------------|--------|
-|01      | Deposit            | Even the initial value is 0 the user can add the ammount and update it.|
-|02      | Withdraw           | It check the initial account and update it accordingly la.| 
-|03      | Privacy            | A user should enter their password at every stage so that the  security and privacy is maintained|
+|ID      | Description            | Status                                                                                           |
+|--------|------------------------|--------------------------------------------------------------------------------------------------|
+|01      | Deposit                | Even the initial value is 0 the user can add the ammount and update it.                          |
+|02      | Withdraw               | It check the initial account and update it accordingly la.                                       | 
+|03      | Privacy                | A user should enter their password at every stage so that the  security and privacy is maintained|
