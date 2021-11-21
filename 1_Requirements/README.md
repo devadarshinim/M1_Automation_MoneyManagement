@@ -1,4 +1,4 @@
-Requirements
+# Requirements
 Capture all the requirements wrt system, module, interface, integration, testing, Functional and Non-functional such as user information, privacy, testing of all posible ways etc.,
 
 Captures Basic Planning of the project through - Sample Flow chart attached
@@ -9,7 +9,7 @@ Defining Our System
 
 A simple web app Which is used to calcuate the basic expences with accuracy and security.
 
-SWOT:
+# SWOT:
 
 Strengths - Accuracy and security.
 
@@ -19,7 +19,7 @@ Opportunities - Complex operation using c.
 
 Threats - If password unknow then the process shouls be started from the first.
 
-4W's and 1'H
+# 4W's and 1'H
 Who:
 User
 
@@ -35,7 +35,7 @@ In shopping carts, banking, etc,.
 How:
 If the correct password of user is known then he/she can able to calculate the expences from the initial ammount.
 
-Detail requirements
+# Detail requirements
 
 
 # High Level Requirements:
