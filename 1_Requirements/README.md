@@ -36,7 +36,9 @@ How:
 If the correct password of user is known then he/she can able to calculate the expences from the initial ammount.
 
 Detail requirements
-#High Level Requirements:
+
+
+# High Level Requirements:
 
 ID      | Description       | Status
 
@@ -44,7 +46,7 @@ ID      | Description       | Status
 
 02      | Accuracy           |A person can able to subract or add any type of ammount with accuract. 
 
-#Low level Requirements:
+# Low level Requirements:
 
 ID      | Description        | Status 
 
