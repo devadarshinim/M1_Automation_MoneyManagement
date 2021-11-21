@@ -12,8 +12,11 @@ A simple web app Which is used to calcuate the basic expences with accuracy and 
 SWOT:
 
 Strengths - Accuracy and security.
+
 Weaknesses - Single user and Single operation.
+
 Opportunities - Complex operation using c.
+
 Threats - If password unknow then the process shouls be started from the first.
 
 4W's and 1'H
