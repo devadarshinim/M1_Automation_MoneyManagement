@@ -1,3 +1,5 @@
+#include<stdio.h>
+#include"program.h"
 int main(){
     printf("Welcome to Money management Sytem \n");
     int ch;

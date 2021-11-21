@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include"program.h"
 void display(char *name,char *email,char *gender,int age, char *password,int ammount)
 {
     
