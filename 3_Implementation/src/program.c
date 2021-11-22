@@ -11,8 +11,8 @@ void display(char *name,char *email,char *gender,int age, char *password,int amm
     printf("Balance : %d\n",ammount);
     printf("Thank you");
 }
-int compare(char a[],char b[]);
-{  
+int compare(char a[],char b[]){
+    
     int flag=0,i=0;  // integer variables declaration  
     while(a[i]!='\0' &&b[i]!='\0')  // while loop  
     {  
@@ -28,8 +28,7 @@ int compare(char a[],char b[]);
     else  
     return 1;  
 }
-int  withdraw(char *name,char *email,char *gender,int age, char *password,int amount,int withdrawammount);
-{
+int  withdraw(char *name,char *email,char *gender,int age, char *password,int amount,int withdrawammount){
     int i;
     if(amount<withdrawammount)
     {
@@ -41,8 +40,7 @@ int  withdraw(char *name,char *email,char *gender,int age, char *password,int am
     }
     return i;
 }
-int deposit(char *name,char *email,char *gender,int age, char *password,int amount, int withdrawammount);
-{
+int deposit(char *name,char *email,char *gender,int age, char *password,int amount, int withdrawammount){
     int j=amount+ withdrawammount;
     return j;
 }
