@@ -17,7 +17,7 @@ Visit [Pages for Report -optional](using github.io option)
 # Learning Resources
 markdownCheatsheet
 
-markdownBasics
+markdownBasic
 
 git inspector
 
