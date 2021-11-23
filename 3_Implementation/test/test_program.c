@@ -27,12 +27,3 @@ void test_compare(void) {
   TEST_ASSERT_EQUAL(0, compare("xxxx","xxxx"));
   TEST_ASSERT_EQUAL(1, compare("xxx","yyy"));
 }  
-void test_withdraw(void) {
-  UNITY_TEST_ASSERT_EQUAL_INT(90,  withdraw("name", "email","gender", age, "password",100,10));
-  UNITY_TEST_ASSERT_EQUAL_INT(0, withdraw("name", "email","gender", age, "password",100,1000));
-}
-
-void test_deposit(void) {
-  UNITY_TEST_ASSERT_EQUAL_INT(1100, deposit("name", "email","gender", age, "password",100,1000));
-
-}
