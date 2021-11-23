@@ -3,16 +3,16 @@ Capture all the requirements wrt system, module, interface, integration, testing
 
 Captures Basic Planning of the project through - Sample Flow chart attached
 
-Tools: Vscode, Doxygen
+# Tools: Vscode, Doxygen
 
-Introduction
+# Introduction
 A simple money management system which can able to calculate income and expenditures.
 
-Research
+# Research
 
 https://www.thebalance.com/top-8-free-personal-finance-software-choices-129361
 
-Defining Our System
+# Defining Our System
 
 A simple web app Which is used to calcuate the basic expences with accuracy and security.
 
