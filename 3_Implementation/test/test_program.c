@@ -28,5 +28,5 @@ void test_compare(void) {
   TEST_ASSERT_EQUAL(1, compare("xxx","yyy"));
 }  
 void test_withdraw(void){
-   TEST_ASSERT_EQUAL(0, withdraw("name", "email","gender",6, "password",100,100); );
+   UNITY_TEST_ASSERT_EQUAL_INT(0, withdraw("name", "email","gender",6, "password",100,100),"DFG","DFGHJ");
 }
