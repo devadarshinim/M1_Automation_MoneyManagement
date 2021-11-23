@@ -5,6 +5,13 @@ Captures Basic Planning of the project through - Sample Flow chart attached
 
 Tools: Vscode, Doxygen
 
+Introduction
+A simple money management system which can able to calculate income and expenditures.
+
+Research
+
+https://www.thebalance.com/top-8-free-personal-finance-software-choices-129361
+
 Defining Our System
 
 A simple web app Which is used to calcuate the basic expences with accuracy and security.
