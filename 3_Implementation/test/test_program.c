@@ -23,10 +23,10 @@ int main()
  
 void test_compare(void) {
   TEST_ASSERT_EQUAL(0, compare(10, 10));
-  TEST_ASSERT_EQUAL(1, add(10, -20));
-  TEST_ASSERT_EQUAL(0, add("xxx","xxx"));
-  TEST_ASSERT_EQUAL(1, add("xxx","yyy"));
-}
+  TEST_ASSERT_EQUAL(1, compare(10, -20));
+  TEST_ASSERT_EQUAL(0, compare("xxx","xxx"));
+  TEST_ASSERT_EQUAL(1, compare("xxx","yyy"));
+}  
 void test_withdraw(void) {
   TEST_ASSERT_EQUAL(90,  withdraw("name", "email","gender", age, "password",100,10));
   TEST_ASSERT_EQUAL(0, withdraw("name", "email","gender", age, "password",100,1000));
