@@ -3,7 +3,7 @@ Visit [Pages for Report -optional](using github.io option)
 |Property                            | Links                                                 |
 |------------------------------------|------------------------------------------------------------------|
 |Build                               |https://github.com/devadarshinim/M1_Automation_MoneyManagement/actions/workflows/c-cpp.yml                  |	                                                               
-|Code Quality	                     |
+|Code Quality	                       |https://github.com/devadarshinim/M1_Automation_MoneyManagement/actions/workflows/cppcheck.yml|
 |Unity	                             |https://github.com/devadarshinim/M1_Automation_MoneyManagement/runs/4296292636?check_suite_focus=true    |
 |[Git Inspector](using github.io option)|                                                   |
 
