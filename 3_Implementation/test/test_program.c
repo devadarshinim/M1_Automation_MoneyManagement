@@ -16,8 +16,6 @@ int main()
   UNITY_BEGIN();
 
   RUN_TEST(test_compare);
-  RUN_TEST(test_withdraw);
-  RUN_TEST(test_deposit);
   return UNITY_END();
 }
  
