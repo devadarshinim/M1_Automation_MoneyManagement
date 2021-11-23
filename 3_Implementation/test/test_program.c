@@ -24,7 +24,7 @@ int main()
 void test_compare(void) {
   TEST_ASSERT_EQUAL(0, compare(10, 10));
   TEST_ASSERT_EQUAL(1, compare(10, -20));
-  TEST_ASSERT_EQUAL(0, compare("xxx","xxx"));
+  TEST_ASSERT_EQUAL(0, compare("xxxx","xxxx"));
   TEST_ASSERT_EQUAL(1, compare("xxx","yyy"));
 }  
 void test_withdraw(void) {
