@@ -28,11 +28,11 @@ void test_compare(void) {
   TEST_ASSERT_EQUAL(1, add("xxx","yyy"));
 }
 void test_withdraw(void) {
-  TEST_ASSERT_EQUAL(90,  withdraw("name", "email","gender", "age", "password",100,10));
-  TEST_ASSERT_EQUAL(0, withdraw("name", "email","gender", "age", "password",100,1000));
+  TEST_ASSERT_EQUAL(90,  withdraw("name", "email","gender", age, "password",100,10));
+  TEST_ASSERT_EQUAL(0, withdraw("name", "email","gender", age, "password",100,1000));
 }
 
 void test_deposit(void) {
-  TEST_ASSERT_EQUAL(1100, deposit("name", "email","gender", "age", "password",100,1000));
+  TEST_ASSERT_EQUAL(1100, deposit("name", "email","gender", age, "password",100,1000));
 
 }
