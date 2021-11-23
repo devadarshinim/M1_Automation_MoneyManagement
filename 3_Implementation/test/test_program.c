@@ -16,6 +16,8 @@ int main()
   UNITY_BEGIN();
 
   RUN_TEST(test_compare);
+  RUN_TEST(test_withdraw);
+
   return UNITY_END();
 }
  
@@ -25,3 +27,6 @@ void test_compare(void) {
   TEST_ASSERT_EQUAL(0, compare("xxxx","xxxx"));
   TEST_ASSERT_EQUAL(1, compare("xxx","yyy"));
 }  
+void test_withdraw(void){
+   TEST_ASSERT_EQUAL(0, withdraw("name", "email","gender",6, "password",100,100); );
+}
