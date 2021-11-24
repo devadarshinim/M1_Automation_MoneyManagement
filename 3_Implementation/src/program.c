@@ -1,6 +1,14 @@
-#include<stdio.h>
-#include "../inc/program.h"
-
+/**
+ * @file program.c
+ * @author Devadarshini
+ * @brief 
+ * @version 0.1
+ * @date 2021-11-22
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+#include "program.h"
 int compare(char a[],char b[]){
     
     int flag=0,i=0;  // integer variables declaration  

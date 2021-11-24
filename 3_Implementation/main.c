@@ -1,6 +1,14 @@
-#include<stdio.h>
-#include "./inc/program.h"
-
+/**
+ * @file main.c
+ * @author Devadarshini
+ * @brief 
+ * @version 0.1
+ * @date 2021-11-22
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+#include"header.h" /* header file */
 int main(){
     printf("Welcome to Money management Sytem \n");
     int ch;
