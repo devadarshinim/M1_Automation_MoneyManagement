@@ -21,7 +21,7 @@ int main(){
     
         printf("Enter email adress : ");
         scanf("%s",email);
-        printf("Enter gender : ");
+        printf("Enter gender M/F : ");
         scanf("%s",gender);
         printf("Enter age : ");
         scanf("%d",&age);
@@ -31,7 +31,7 @@ int main(){
         scanf("%s", cpassword);
         printf("Enter initial ammount : ");
         scanf("%d",&amount);
-        printf("Do you like to display the data : Press 1 \n Do you want to withdraw the ammount : Press 2 \n Do you want to deposit the ammount : Press 3 \n To exit : Press 4 : \n Enter your option : ");
+        printf("Do you like to display the data : Press 1 \nDo you want to withdraw the ammount : Press 2 \nDo you want to deposit the ammount : Press 3 \nTo exit : Press 4 : \n Enter your option : ");
         scanf("%d",&displayData);
         if(displayData==1)
         {
@@ -90,7 +90,7 @@ int main(){
             int value=compare(password,cpass);
             if(value==0)
             {
-                printf("Enter amount that you want to withdraw : ");
+                printf("Enter amount that you want to deposit : ");
                 int withdrawamount;
                 scanf("%d",&withdrawamount);
                 int j= deposit(name, email,gender, age, password,amount,withdrawamount);

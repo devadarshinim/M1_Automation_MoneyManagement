@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "../inc/bill_operations.h"
+#include "../inc/program.h"
 
 int compare(char a[],char b[]){
     
