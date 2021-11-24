@@ -1,1 +1,0 @@
-withdraw(name, email,gender, age, password,amount,withdrawamount);
