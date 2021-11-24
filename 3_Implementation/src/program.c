@@ -1,16 +1,6 @@
 #include<stdio.h>
-#include"program.h"
-void display(char *name,char *email,char *gender,int age, char *password,int ammount)
-{
-    
-    printf("Name :  %s\n",name);
-    printf("Email : %s\n",email);
-    printf("Gender : %s\n",gender);
-    printf("Age : %d\n",age);
-    printf("Password : %s\n",password);
-    printf("Balance : %d\n",ammount);
-    printf("Thank you");
-}
+#include "../inc/bill_operations.h"
+
 int compare(char a[],char b[]){
     
     int flag=0,i=0;  // integer variables declaration  

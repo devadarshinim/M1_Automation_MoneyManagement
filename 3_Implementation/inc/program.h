@@ -1,4 +1,4 @@
-void display(char *name,char *email,char *gender,int age, char *password,int ammount);
+
 
 int compare(char a[],char b[]);
 

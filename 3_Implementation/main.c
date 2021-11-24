@@ -1,5 +1,6 @@
 #include<stdio.h>
-#include<program.h>
+#include "./inc/program.h"
+
 int main(){
     printf("Welcome to Money management Sytem \n");
     int ch;
@@ -40,7 +41,13 @@ int main(){
             int value=compare(password,cpass);
             if(value==0)
             {
-                display(name, email,gender, age, password,amount);
+                printf("Name :  %s\n",name);
+                printf("Email : %s\n",email);
+                printf("Gender : %s\n",gender);
+                printf("Age : %d\n",age);
+                printf("Password : %s\n",password);
+                printf("Balance : %d\n",amount);
+                printf("Thank you");
             }
             else
             {
