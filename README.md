@@ -1,7 +1,13 @@
+# M1_Automation_MoneyManagement
 
 ### Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0154c3f711eb4eeba05df4eaebc7835e)](https://www.codacy.com/gh/devadarshinim/M1_Automation_MoneyManagement/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=devadarshinim/M1_Automation_MoneyManagement&amp;utm_campaign=Badge_Grade)
 
+### CODE QUALITY SCORE:
+![code quality score](https://api.codiga.io/project/30047/score/svg)
+
+### CODE GRADE:
+![CODE GRADE](https://api.codiga.io/project/30047/status/svg)
 # SDLC Activity Based Learning
 Visit [Pages for Report -optional](using github.io option)
 
